@@ -1,7 +1,5 @@
-
-# Hi there! 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/05dcf405-f88a-4728-8b7e-8d2efc56fcd3" width="600"/>
+  <img src="https://github.com/user-attachments/assets/05dcf405-f88a-4728-8b7e-8d2efc56fcd3" width="500"/>
 </div>
 <br><br>
 
