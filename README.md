@@ -1,8 +1,10 @@
 ## Hi there 👋
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-seven-olive-11.vercel.app/api?username=hectoremanuelpc&show=reviews,prs_merged_percentage&hide=stars,issues,contribs&show_icons=true&theme=radical" />
+  </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-olive-11.vercel.app/api?username=hectoremanuelpc&show=reviews,prs_merged_percentage&hide=stars,issues,contribs&show_icons=true&theme=radical" />
-</a>
 <!--
 **hectoremanuelpc/hectoremanuelpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
