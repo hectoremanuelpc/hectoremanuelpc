@@ -40,10 +40,10 @@
 ## 📱 Connect With Me
 
 <p align="center">
-    <a href="mailto:emanuel.cuevas03@gmail.com">
+    <a href="mailto:emanuel.cuevas03@gmail.com"  target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/emanuelpc" target="_blank">
+    <a href="https://www.linkedin.com/in/emanuelpc" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
