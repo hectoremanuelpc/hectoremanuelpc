@@ -1,16 +1,19 @@
-## 👨‍💻 About Me
+<div align="center">
+  ![mario](https://github.com/user-attachments/assets/44f025a2-ef4f-4168-bede-6367aade69aa)
+</div>
+<br><br>
 
+## 👨‍💻 About Me
 <ul>
   <li>🌐 Full-stack web developer with a passion for creating dynamic and responsive web applications.</li>
   <li>🏛️ Enthusiast of software architecture, always exploring new patterns and best practices.</li>
-  <li>🎓 Almost a graduate from the Facultad de Informática de Barcelona, equipped with solid foundations in computer science.</li>
+  <li>🎓 Almost a graduate from the School of Informatics, Barcelona, equipped with solid foundations in computer science.</li>
   <li>📚 Avid reader who enjoys diving into both technical books and engaging novels.</li>
   <li>💪 Gym enthusiast, dedicated to maintaining a healthy and active lifestyle.</li>
   <li>🎉 Love hanging out with friends and making cool plans for unforgettable experiences.</li>
 </ul>
 
 ## ⭐ My Skill Set
-
 <p align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="60" width="60" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" height="60" width="60" style="margin: 10px;"/>
