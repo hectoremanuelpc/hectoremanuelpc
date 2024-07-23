@@ -1,5 +1,7 @@
+
+# Hi there! 👋
 <div align="center">
-  ![mario](https://github.com/user-attachments/assets/44f025a2-ef4f-4168-bede-6367aade69aa)
+  <img src="https://github.com/user-attachments/assets/05dcf405-f88a-4728-8b7e-8d2efc56fcd3" width="600"/>
 </div>
 <br><br>
 
@@ -9,7 +11,6 @@
   <li>🏛️ Enthusiast of software architecture, always exploring new patterns and best practices.</li>
   <li>🎓 Almost a graduate from the School of Informatics, Barcelona, equipped with solid foundations in computer science.</li>
   <li>📚 Avid reader who enjoys diving into both technical books and engaging novels.</li>
-  <li>💪 Gym enthusiast, dedicated to maintaining a healthy and active lifestyle.</li>
   <li>🎉 Love hanging out with friends and making cool plans for unforgettable experiences.</li>
 </ul>
 
